@@ -2,3 +2,4 @@ A variety of graphical resources drawn up for HackPittsburgh.
 
 http://www.hackpittsburgh.org/
 
+To download the SVG files to your computer, you need to do something a little special. Github normally tries to display the plaintext SVG file source code, so we need to work around that. One solution is to go to a specific SVG's page and then click the raw link, and then do a save-as on the page.
